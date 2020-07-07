@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047828480237",
+    "firebase_url": "https://record-297a4.firebaseio.com",
+    "project_id": "record-297a4",
+    "storage_bucket": "record-297a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047828480237:android:ab29723b52e4f111a94ce4",
+        "android_client_info": {
+          "package_name": "com.vvin.record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047828480237-0t2m0plr7q5nmsrk4tfua34ac3cfcgvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZ99PATZy9-svKTLjpfCxJzP4ziYLNLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047828480237-0t2m0plr7q5nmsrk4tfua34ac3cfcgvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
